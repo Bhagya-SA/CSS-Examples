@@ -1,0 +1,2 @@
+.box1 { position: absolute; z-index: 1; }
+.box2 { position: absolute; z-index: 2; } /* On top */
