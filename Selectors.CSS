@@ -1,0 +1,17 @@
+/* Element */
+p { color: blue; }
+
+/* Class */
+.title { font-size: 20px; }
+
+/* ID */
+#main { background: yellow; }
+
+/* Attribute */
+input[type="text"] { border: 1px solid gray; }
+
+/* Pseudo-class */
+a:hover { color: red; }
+
+/* Pseudo-element */
+p::first-letter { font-size: 2em; }
