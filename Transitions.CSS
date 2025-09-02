@@ -1,0 +1,5 @@
+button {
+  background: blue;
+  transition: background 0.3s;
+}
+button:hover { background: red; }
