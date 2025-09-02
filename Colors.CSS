@@ -1,0 +1,4 @@
+h1 { color: #ff0000; }       /* HEX */
+p { color: rgb(0, 128, 0); } /* RGB */
+a { color: rgba(0, 0, 255, 0.7); } /* RGBA */
+span { color: hsl(200, 100%, 50%); } /* HSL */
