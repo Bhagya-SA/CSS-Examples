@@ -1,0 +1,6 @@
+div { display: block; }
+span { display: inline; }
+img { display: inline-block; }
+nav { display: flex; }
+section { display: grid; }
+p { display: none; } /* hidden */
