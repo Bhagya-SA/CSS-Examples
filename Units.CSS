@@ -1,0 +1,5 @@
+h1 { font-size: 24px; }   /* Absolute */
+p { font-size: 1.5em; }   /* Relative to parent */
+p { font-size: 1rem; }    /* Relative to root */
+div { width: 50%; }       /* Relative to parent width */
+div { height: 100vh; }    /* Relative to viewport */
