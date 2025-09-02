@@ -1,0 +1,3 @@
+p { color: black; }        /* Low priority */
+p.highlight { color: blue; } /* Higher priority */
+#special { color: red; }   /* Highest priority */
